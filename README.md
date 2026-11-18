@@ -1,6 +1,8 @@
 # November 18, 2026 — The Day in Review
 
 [![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Irgirival/makefun-news-image-20261118-xxcode2/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Irgirival/makefun-news-image-20261118-xxcode2/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 A one-page newspaper front page summing up the world news of
 Wednesday, November 18, 2026 — drawn entirely in code.
